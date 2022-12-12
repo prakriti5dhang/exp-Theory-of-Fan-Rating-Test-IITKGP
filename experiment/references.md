@@ -1,20 +1,11 @@
+## References
+#### Books
+- Mine Environment and Ventilation. G.B. Mishra (2007).
 
 
-## Introduction
+## People
 
-<div align="center">
-<img src="experiment/images/iitkgp.png" width="10%">
-</div>
-
-### About the Experiment
-<b>Discipline | <b> Mining Engineering  
-:--|:--|
-<b> Lab | <b> **Mine Automation & Virtual Reality**
-<b> Experiment|     <b> **Theory of Fan Rating Test and Experiment 10**
-
-
-
-### Subject Matter Experts 
+#### Subject Matter Experts 
 
 <!--Fill a brief description of this experiment here-->
 
@@ -32,14 +23,10 @@
 <b> Department |  **Department of Mining Engineering**
 <b>Webpage| <b> [http://www.iitkgp.ac.in/cv/mi-samantab](http://www.iitkgp.ac.in/cv/mi-samantab)
 
-### Contributors List
+#### Contributors List
 
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
 1 | **Mou Samanta** | Developer | Senior Project Assistant | Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Mitrajit Samanta** | Integration | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur | 
 3 | **Prakriti Dhang** | Developer and Integration | Project Staff- Technical | Department of Mechanical Engineering |IIT Kharagpur | 
-
-
-
-
